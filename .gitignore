@@ -1,0 +1,11 @@
+# Fichiers de configuration contenant des clés
+.env
+config.py
+credentials.json
+google.txt
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
