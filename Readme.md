@@ -29,5 +29,5 @@ Idéal pour la prospection, l'audit rapide de leads ou la veille SEO.
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com/ton-pseudo/seo-auditor.git](https://github.com/ton-pseudo/seo-auditor.git)
-cd seo-auditor
+git clone [https://github.com/CocoCatDeveloppement/audit-scrap-seo.git](https://github.com/CocoCatDeveloppement/audit-scrap-seo.git)
+cd audit-scrap-seo
