@@ -1,13 +1,11 @@
-# Fichiers de clés et identifiants secrets
-credentials.json
-config.py
+# Fichiers de configuration contenant des clés
 .env
+config.py
+credentials.json
+google.txt
 
-# Données locales et scraping
-*.txt
-
-# Caches Python et environnements virtuels
+# Fichiers temporaires Python
 __pycache__/
-*.pyc
-venv/
+*.py[cod]
 .venv/
+env/
